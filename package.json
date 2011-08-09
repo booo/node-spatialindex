@@ -1,0 +1,15 @@
+{
+  "author": "Philipp Borgers <borgers@mi.fu-berlin.de>",
+  "name": "libspatialindex",
+  "description": "node bindings for libspatialindex",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~v0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
